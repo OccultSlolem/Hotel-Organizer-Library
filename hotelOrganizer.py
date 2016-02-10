@@ -1,4 +1,4 @@
-"""Hotel Organizer Library created by Ethan Hanlon. Avalible online at GitHub at (insert link here). Please, if you have an idea, do not hesitate to make a branch and start contributing!"""
+"""Hotel Organizer Library created by Ethan Hanlon. Avalible online at GitHub at https://github.com/Uberlyuber/Hotel-Organizer-Library. Please, if you have an idea, do not hesitate to make a branch and start contributing!"""
 
 def intro(self):
     print("Welcome to the Hotel Organizer software!")
